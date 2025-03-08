@@ -24,7 +24,7 @@ Ikuti instruksi di bawah ini secara step-by-step hingga selesai.
 ## Instruction
 Sebelum menjalankan program, ada beberapa hal yang perlu diketahui dan dilakukan
 1. Siapkan konfigurasi di file config.js
-2. Anda membutuhkan Executable Path Chrome dan Profile Path Chrome yang bisa didapatkan dari browser Chrome di komputer lokal Anda
+2. Anda membutuhkan Chrome Executable Path dan Chrome Profile Path yang bisa didapatkan dari browser Chrome di komputer lokal Anda
 3. Kedua hal tersebut berfungsi untuk mengurangi pendeteksian bot oleh Google
 4. Buka Chrome dan masukkan keyword berikut di kolom pencarian
    ```
