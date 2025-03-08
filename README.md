@@ -1,5 +1,5 @@
 # Judol Backlink Checker
-J\*di Online Backlink Checker - Web Scraper untuk mencari website yang terkena backlink J\*di Online
+J\*di Online Backlink Checker - Web Scraper untuk mencari website yang terindeks di Google Search Engine yang terkena backlink J\*di Online
 
 ## Features
 - Search by full domain/sub-domain or TLD/SLD
