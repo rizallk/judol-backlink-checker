@@ -40,7 +40,7 @@ Sebelum menjalankan program, ada beberapa hal yang perlu diketahui dan dilakukan
    };
 7. Tambahkan cookies dengan nama <b>cookies.json</b> atau <b>www.google.com.cookies.json</b> di dalam folder app/
 8. Cookies berfungsi untuk menangani deteksi bot dari Google
-10. Dapatkan cookies dengan menggunakan ekstensi https://chromewebstore.google.com/detail/export-cookie-json-file-f/nmckokihipjgplolmcmjakknndddifde
+10. Dapatkan cookies dengan menggunakan ekstensi ini : https://chromewebstore.google.com/detail/export-cookie-json-file-f/nmckokihipjgplolmcmjakknndddifde
 11. Tambahkan ekstensi tersebut di chrome Anda
 12. Buka https://www.google.com, pastikan sudah sign in dengan akun Google Anda
 13. Search apa saja hingga muncul hasil pencarian, buka ekstensi tersebut, lalu <b>export cookies as JSON</b>
