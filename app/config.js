@@ -1,10 +1,11 @@
 export const config = {
-  excel: true, // True jika ingin menyimpan hasil scraping ke file excel
   headless: false, // False jika ingin melihat tampilan browser ketika program dijalankan, dalam beberapa kondisi, menampilkan browser dibutuhkan
   executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe', // Berisikan path file chrome.exe di komputer lokal Anda
   userDataDir:
     'C:\\Users\\HP\\AppData\\Local\\Google\\Chrome\\User Data\\Default', // Berisikan user data chrome profile path di komputer lokal Anda
   chromeProfileDir: 'Default', // Berisikan nama folder chrome profile di komputer lokal Anda
+  createExcel: true, // True jika ingin menyimpan hasil scraping ke file excel
+  skipDuplicate: false, // False jika Anda ingin tetap menyimpan URL yang berbeda tetapi masih terdeteksi backlink judol yang sama ke file excel
   showLinkJudol: true, // True untuk menampilkan link judol yang terdeteksi pada website tertentu ketika program dijalankan
 };
 
