@@ -39,13 +39,13 @@ Sebelum menjalankan program, ada beberapa hal yang perlu diketahui dan dilakukan
      chromeProfileDir: 'Default', # Berisikan nama folder chrome profile di komputer lokal Anda
    };
 7. Tambahkan cookies dengan nama <b>cookies.json</b> atau <b>www.google.com.cookies.json</b> di dalam folder app/
-8. Cookies berfungsi untuk menangani deteksi bot dari google
-9. Dapatkan cookies dengan menggunakan ekstensi https://chromewebstore.google.com/detail/export-cookie-json-file-f/nmckokihipjgplolmcmjakknndddifde
-10. Tambahkan ekstensi tersebut di chrome Anda
-11. Buka https://www.google.com, pastikan sudah sign in dengan akun Google Anda
-12. Search apa saja hingga muncul hasil pencarian, buka ekstensi tersebut, lalu <b>export cookies as JSON</b>
-13. Pastikan hanya ada satu file *.json di dalam folder app/ dengan nama file seperti yang sudah disebutkan
-14. Alternatif : Jika cookies tidak bisa menangani deteksi bot, perbarui cookies Anda dengan cara yang sama, atau lanjutkan dengan mode headful (browser tampil) dan lakukan penyelesaian captcha secara manual
+8. Cookies berfungsi untuk menangani deteksi bot dari Google
+10. Dapatkan cookies dengan menggunakan ekstensi https://chromewebstore.google.com/detail/export-cookie-json-file-f/nmckokihipjgplolmcmjakknndddifde
+11. Tambahkan ekstensi tersebut di chrome Anda
+12. Buka https://www.google.com, pastikan sudah sign in dengan akun Google Anda
+13. Search apa saja hingga muncul hasil pencarian, buka ekstensi tersebut, lalu <b>export cookies as JSON</b>
+14. Pastikan hanya ada satu file *.json di dalam folder app/ dengan nama file seperti yang sudah disebutkan
+15. Alternatif : Jika cookies tidak bisa menangani deteksi bot, perbarui cookies Anda dengan cara yang sama, atau lanjutkan dengan mode headful (browser tampil) dan lakukan penyelesaian captcha secara manual
     
 ## Support Developer
 Dukung developer disini : https://trakteer.id/rizall-kadamong/tip
