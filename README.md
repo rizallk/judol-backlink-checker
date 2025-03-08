@@ -46,6 +46,9 @@ Sebelum menjalankan program, ada beberapa hal yang perlu diketahui dan dilakukan
 13. Search apa saja hingga muncul hasil pencarian, buka ekstensi tersebut, lalu <b>export cookies as JSON</b>
 14. Pastikan hanya ada satu file *.json di dalam folder app/ dengan nama file seperti yang sudah disebutkan di poin no. 6
 15. Alternatif : Jika cookies tidak bisa menangani deteksi bot, perbarui cookies Anda dengan cara yang sama, atau lanjutkan dengan mode headful (browser tampil) dan lakukan penyelesaian captcha secara manual
+
+## Validation
+Akurasi dari pendeteksian backlink mungkin tidak 100% akurat, perlu dilakukan perbaharuan dengan cara mengamati pola-pola backlink judol yang terdapat pada website-website yang ada dan memperbanyak gambling keywords.
     
 ## Support Developer
 Dukung developer disini : https://trakteer.id/rizall-kadamong/tip
