@@ -1,6 +1,8 @@
 # Judol Backlink Checker
 J\*di Online Backlink Checker - Web Scraper untuk mencari website yang terindeks di Google Search Engine yang terkena backlink J\*di Online
 
+![Screenshot 2025-03-08 220812](https://github.com/user-attachments/assets/3001b889-88d2-4446-b114-b1357321c5a0)
+
 ## Features
 - Search by full domain/sub-domain or TLD/SLD
 - Add more gambling keywords for detection
