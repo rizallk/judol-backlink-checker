@@ -22,7 +22,7 @@ Melakukan scraping pada Google Search Engine tidaklah mudah, Google dapat mendet
 Ikuti instruksi di bawah ini secara step-by-step hingga selesai.
 
 ## Instruction
-Sebelum menjalankan tools, ada beberapa hal yang perlu diketahui dan dilakukan
+Sebelum menjalankan program, ada beberapa hal yang perlu diketahui dan dilakukan
 1. Siapkan konfigurasi di file config.js
 2. Anda membutuhkan Executable Path dan Profile Path yang bisa didapatkan dari browser Chrome Anda
 3. Buka Chrome dan masukkan keyword berikut di kolom pencarian
