@@ -17,7 +17,7 @@ npm install
 npm start
 ```
 
-## Info
+## Note
 Melakukan scraping pada Google Search Engine tidaklah mudah, Google dapat mendeteksinya sebagai bot, artinya Anda harus melakukan beberapa konfigurasi tambahan untuk meminimalisir pendeteksian bot oleh Google. </b>
 Ikuti instruksi di bawah ini secara step-by-step hingga selesai.
 
