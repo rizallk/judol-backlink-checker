@@ -1,5 +1,5 @@
 # Judol Backlink Checker
-J\*di Online Backlink Checker - Web Scraper untuk mencari website yang terindeks di Google Search Engine yang terkena backlink J\*di Online
+Judol Backlink Checker - Web Scraper untuk mencari website yang terindeks di Google Search Engine yang terkena backlink J\*di Online
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/3001b889-88d2-4446-b114-b1357321c5a0" width="600">
@@ -8,7 +8,7 @@ J\*di Online Backlink Checker - Web Scraper untuk mencari website yang terindeks
 ## Features
 - Search by full domain/sub-domain or TLD/SLD
 - Add more gambling keywords for detection
-- Scrape up to 100+ websites
+- Scrape up to 100+ URLs
 - Save results to an Excel file
 
 ## Installation 
@@ -22,7 +22,7 @@ npm start
 ```
 
 ## Note
-Melakukan scraping pada Google Search Engine tidaklah mudah, Google dapat dengan mudah mendeteksinya sebagai bot, artinya Anda harus melakukan beberapa konfigurasi tambahan untuk meminimalisir pendeteksian bot oleh Google. </b>
+Melakukan scraping pada Google Search Engine tidaklah mudah, Google dapat dengan mudah mendeteksinya sebagai bot hingga memunculkan reCAPTCHA, artinya Anda harus melakukan beberapa konfigurasi tambahan untuk meminimalisir pendeteksian bot oleh Google. </b>
 Ikuti instruksi di bawah ini secara step-by-step hingga selesai.
 
 ## Instruction
@@ -46,16 +46,16 @@ Sebelum menjalankan program, ada beberapa hal yang perlu diketahui dan dilakukan
 8. Cookies berfungsi untuk menangani deteksi bot dari Google
 10. Dapatkan cookies dengan menggunakan ekstensi ini : https://chromewebstore.google.com/detail/export-cookie-json-file-f/nmckokihipjgplolmcmjakknndddifde
 11. Tambahkan ekstensi tersebut di chrome Anda
-12. Buka https://www.google.com, pastikan sudah sign in dengan akun Google Anda
+12. Buka https://www.google.com, pastikan sudah sign-in dengan akun Google Anda
 13. Search apa saja hingga muncul hasil pencarian, buka ekstensi tersebut, lalu <b>export cookies as JSON</b>
 14. Pastikan hanya ada satu file *.json di dalam folder app/ dengan nama file seperti yang sudah disebutkan di poin no. 6
-15. Alternatif : Jika cookies tidak bisa menangani deteksi bot, perbarui cookies Anda dengan cara yang sama, atau lanjutkan dengan mode headful (browser tampil) dan lakukan penyelesaian captcha secara manual
+15. Alternatif : Jika cookies tidak bisa menangani deteksi bot, perbarui cookies Anda dengan cara yang sama, atau lanjutkan dengan mode headful (browser tampil) dan lakukan penyelesaian reCAPTCHA secara manual
 
 ## Validation
 Akurasi dari pendeteksian backlink mungkin tidak 100% akurat, perlu dilakukan perbaharuan dengan cara mengamati pola-pola backlink judol yang terdapat pada website-website yang ada dan memperbanyak gambling keywords.
     
 ## Support Developer
-Dukung developer disini : https://trakteer.id/rizall-kadamong/tip
+Dukung developer disini : https://trakteer.id/rizallk/tip
 
 ## Custom
 Jika Anda ingin dibuatkan fitur custom, hubungi developer : https://rizallk.vercel.app/contact
