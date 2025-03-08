@@ -1,0 +1,17 @@
+{
+  "name": "judol-backlink-checker",
+  "version": "1.0.0",
+  "description": "Judol Backlink Checker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app/index.js"
+  },
+  "type": "module",
+  "author": "Rizal K.",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "puppeteer": "^24.4.0",
+    "puppeteer-core": "^24.4.0"
+  }
+}
