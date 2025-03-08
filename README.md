@@ -50,4 +50,4 @@ Sebelum menjalankan program, ada beberapa hal yang perlu diketahui dan dilakukan
 Dukung developer disini : https://trakteer.id/rizall-kadamong/tip
 
 ## Custom
-Jika Anda memerlukan fitur custom, hubungi developer : https://rizallk.vercel.app/contact
+Jika Anda ingin dibuatkan fitur custom, hubungi developer : https://rizallk.vercel.app/contact
