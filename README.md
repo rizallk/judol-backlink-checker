@@ -48,7 +48,7 @@ Sebelum menjalankan program, ada beberapa hal yang perlu diketahui dan dilakukan
 11. Tambahkan ekstensi tersebut di chrome Anda
 12. Buka https://www.google.com, pastikan sudah sign-in dengan akun Google Anda
 13. Search apa saja hingga muncul hasil pencarian, buka ekstensi tersebut, lalu <b>export cookies as JSON</b>
-14. Pastikan hanya ada satu file *.json di dalam folder app/ dengan nama file seperti yang sudah disebutkan di poin no. 6
+14. Pastikan hanya ada satu file .json di dalam folder app/ dengan nama file seperti yang sudah disebutkan di poin no. 6
 15. Alternatif : Jika cookies tidak bisa menangani deteksi bot, perbarui cookies Anda dengan cara yang sama, atau lanjutkan dengan mode headful (browser tampil) dan lakukan penyelesaian reCAPTCHA secara manual
 
 ## Validation
