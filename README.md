@@ -1,5 +1,5 @@
 # Judol Backlink Checker
-Judol Backlink Checker - Web Scraper untuk mencari website yang terindeks di Google Search Engine yang terkena backlink J\*di Online
+Judol Backlink Checker - Web Scraper untuk mencari website yang terindeks di Google Search Engine yang terkena backlink Judol
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/3001b889-88d2-4446-b114-b1357321c5a0" width="600">
@@ -52,7 +52,7 @@ Sebelum menjalankan program, ada beberapa hal yang perlu diketahui dan dilakukan
 15. Alternatif : Jika cookies tidak bisa menangani deteksi bot, perbarui cookies Anda dengan cara yang sama, atau lanjutkan dengan mode headful (browser tampil) dan lakukan penyelesaian reCAPTCHA secara manual
 
 ## Validation
-Akurasi dari pendeteksian backlink mungkin tidak 100% akurat, perlu dilakukan perbaharuan dengan cara mengamati pola-pola backlink judol yang terdapat pada website-website yang ada dan memperbanyak gambling keywords.
+Akurasi dari pendeteksian backlink mungkin tidak 100% akurat, perlu dilakukan pembaharuan dengan cara mengamati pola-pola backlink judol yang terdapat pada website-website yang ada dan memperbanyak gambling keywords.
     
 ## Support Developer
 Dukung developer disini : https://trakteer.id/rizallk/tip
