@@ -52,7 +52,7 @@ Sebelum menjalankan program, ada beberapa hal yang perlu diketahui dan dilakukan
 15. Alternatif : Jika cookies tidak bisa menangani deteksi bot, perbarui cookies Anda dengan cara yang sama, atau lanjutkan dengan mode headful (browser tampil) dan lakukan penyelesaian reCAPTCHA secara manual
 
 ## Validation
-Akurasi dari pendeteksian backlink mungkin tidak 100% akurat, perlu dilakukan pembaharuan dengan cara mengamati pola-pola backlink judol yang terdapat pada website-website yang ada dan memperbanyak gambling keywords.
+Akurasi dari pendeteksian backlink mungkin tidak 100% akurat, perlu dilakukan pembaharuan dengan cara mengamati pola-pola backlink judol baru yang terdapat pada website-website yang ada dan memperbanyak gambling keywords.
     
 ## Support Developer
 Dukung developer disini : https://trakteer.id/rizallk/tip
