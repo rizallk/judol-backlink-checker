@@ -43,7 +43,7 @@ Sebelum menjalankan program, ada beberapa hal yang perlu diketahui dan dilakukan
      chromeProfileDir: 'Default', # Berisikan nama folder chrome profile di komputer lokal Anda
    };
 7. Tambahkan cookies dengan nama <b>cookies.json</b> atau <b>www.google.com.cookies.json</b> di dalam folder app/
-8. Cookies berfungsi untuk menangani deteksi bot dari Google
+8. Cookies berfungsi untuk menangani deteksi bot dari Google karena berisikan sessions ID sehingga Google mendeteksinya sebagai orang/browser asli
 10. Dapatkan cookies dengan menggunakan ekstensi ini : https://chromewebstore.google.com/detail/export-cookie-json-file-f/nmckokihipjgplolmcmjakknndddifde
 11. Tambahkan ekstensi tersebut di chrome Anda
 12. Buka https://www.google.com, pastikan sudah sign-in dengan akun Google Anda
