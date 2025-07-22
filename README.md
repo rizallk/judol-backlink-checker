@@ -1,5 +1,5 @@
 # Judol Backlink Checker
-Judol Backlink Checker - Web Scraper untuk mencari website yang terindeks di Google Search Engine yang terkena backlink Judol
+Judol Backlink Checker - Web Scraper untuk mencari website yang terindeks di Google Search Engine yang terdeteksi memiliki backlink Judol
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/3001b889-88d2-4446-b114-b1357321c5a0" width="650">
@@ -58,4 +58,4 @@ Akurasi dari pendeteksian backlink mungkin tidak 100% akurat, perlu dilakukan pe
 Dukung developer disini : https://trakteer.id/rizallk/tip
 
 ## Custom
-Jika Anda ingin dibuatkan fitur custom, hubungi developer : https://rizallk.vercel.app/contact
+Jika Anda ingin dibuatkan fitur custom, hubungi developer : https://rizallk.vercel.app
