@@ -1,5 +1,5 @@
-# Judol Backlink Checker
-Judol Backlink Checker - Web Scraper untuk mencari website yang terindeks di Google Search Engine yang terdeteksi memiliki backlink Judol
+# Judol Backlink Checker (Website Auditor)
+Judol Backlink Checker - Web Scraper untuk mencari website yang terindeks di Google Search Engine yang terdeteksi memiliki backlink Judol untuk keperluan website auditor
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/3001b889-88d2-4446-b114-b1357321c5a0" width="650">
